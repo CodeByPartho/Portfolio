@@ -15,58 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Graphics Designer & Web Developer</h4>
+                <h5>Freelance</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Building clean user experiences and modern digital solutions. Specializing in web development, graphic design, and digital communication with a focus on responsive design and user-centered approach.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>BNCC Training</h4>
+                <h5>Volunteer Experience</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>COMPLETED</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Developed a high degree of discipline, time management, and consistency. Enhanced interpersonal skills through teamwork on various events, functions, and activities. Built confidence in professional communication and public speaking skills under direct supervision.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Honours in Finance & Banking</h4>
+                <h5>Tejgao College</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2021–23</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Pursued higher education with a strong focus on analytical and financial concepts, developing problem-solving skills and attention to detail essential for professional success.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Higher Secondary Certificate (HSC)</h4>
+                <h5>Uttara Government College</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2019–21</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Completed secondary education with a CGPA of 4.58, establishing a strong academic foundation and cultivating discipline and consistency in learning.
             </p>
           </div>
         </div>

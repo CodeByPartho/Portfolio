@@ -11,7 +11,7 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="#"
+                href="https://www.facebook.com/dokumosi"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
@@ -30,7 +30,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="#"
+              href="https://www.github.com/CodeByPartho"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -39,7 +39,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/parthosarothipaik/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -64,6 +64,24 @@ const Contact = () => {
               className="contact-social"
             >
               Instagram <MdArrowOutward />
+            </a>
+            <a
+              href="https://t.me/dokumosi"
+              target="_blank"
+              rel="noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Telegram <MdArrowOutward />
+            </a>
+            <a
+              href="https://wa.me/+8801533324840"
+              target="_blank"
+              rel="noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              WhatsApp <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
