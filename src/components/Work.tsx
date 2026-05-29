@@ -9,21 +9,14 @@ const projects = [
     category: "Emergency Contact Web Application",
     tools: "HTML, CSS, JavaScript, GitHub Pages",
     image: "/images/express.webp",
-    link: "#",
+    link: "https://sos-app-by-partho.netlify.app/",
   },
   {
     title: "Portfolio Website",
     category: "3D Interactive Portfolio",
     tools: "React, Three.js, GSAP, TypeScript",
     image: "/images/Solidx.png",
-    link: "#",
-  },
-  {
-    title: "Email Marketing Assets",
-    category: "Marketing & Branding Design",
-    tools: "Email Design, Branding, Communication",
-    image: "/images/Maxlife.png",
-    link: "#",
+    link: "https://portfolio-of-partho-paik.netlify.app/",
   },
 ];
 
