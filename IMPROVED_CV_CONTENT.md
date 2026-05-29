@@ -1,4 +1,4 @@
-# PARTHO SAROTHI PAIK AKASH
+# PARTHO SAROTHI PAIK
 **Graphics Designer & Web Developer | Creative Professional**
 
 ---
