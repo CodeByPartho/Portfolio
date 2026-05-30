@@ -9,7 +9,7 @@
 }
 .social-icons {
   position: absolute;
-  left: 20px;
+  left: -20px;
   bottom: 20px;
   display: none;
   flex-direction: column;
@@ -18,7 +18,7 @@
   padding: 10px;
 }
 .social-icons:hover {
-  transition: 0.3s;                                                
+  transition: 0.3s;
   color: var(--backgroundColor);
 }
 .social-icons a:hover {
