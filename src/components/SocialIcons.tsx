@@ -81,7 +81,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="https://www.youtube.com/Dokumosi"
             target="_blank"
             rel="noreferrer"
           >
@@ -90,7 +90,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
+            href="https://www.instagram.com/Partho__1/"
             target="_blank"
             rel="noreferrer"
           >
