@@ -337,7 +337,7 @@ h2.landing-info-h2 {
   }
 
   .landing-intro {
-    top: 35%;
+    top: 50%;
     left: 40px;
     right: auto;
     transform: translate(0%, -50%);
@@ -345,7 +345,7 @@ h2.landing-info-h2 {
 
   .landing-info {
     bottom: auto;
-    top: 55%;
+    top: 50%;
     z-index: inherit;
     text-align: left;
     transform: translate(0%, -50%);
@@ -356,7 +356,7 @@ h2.landing-info-h2 {
 
 @media screen and (min-width: 1200px) {
   .landing-intro {
-    top: 35%;
+    top: 50%;
     left: 40px;
     right: auto;
     transform: translate(0%, -50%);
@@ -364,7 +364,7 @@ h2.landing-info-h2 {
 
   .landing-info {
     bottom: auto;
-    top: 55%;
+    top: 50%;
     z-index: inherit;
     text-align: left;
     transform: translate(0%, -50%);
