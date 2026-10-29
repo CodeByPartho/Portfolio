@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🌐 Partho — Interactive 3D Portfolio</h1>
+ <h1>Partho — Interactive 3D Portfolio</h1>
 
   <p><b>Next-Generation Creative Developer Portfolio featuring Three.js, R3F & GSAP</b></p>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains the production source code for **Partho's 3D Portfolio**. Designed with a performance-first mindset, the application combines React 18 component modularity with Three.js WebGL scenes, interactive character controllers, and physics engines (Rapier/Cannon).
 
@@ -29,18 +29,18 @@ It features dynamic project showreels, custom cursor navigation, responsive layo
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🎮 **Real-Time WebGL Visuals** — Immersive 3D environments rendered in real time with `@react-three/fiber` and `@react-three/drei`.
-- 🕹️ **Interactive Physics Simulation** — Dynamic rigid-body physics and collision detection powered by `@react-three/rapier`.
-- 🎬 **Fluid Timeline Choreography** — Complex multi-stage scroll animations and micro-interactions orchestrated via GSAP.
-- ⚡ **Optimized Draco Geometry** — Compressed 3D mesh assets and responsive WebP image loading for high-speed hydration.
-- 📱 **Fully Responsive Layout** — Dynamic camera calculations ensuring consistent visual fidelity on both mobile devices and wide desktop displays.
-- 🎨 **Minimalist Aesthetic** — Modern typography, glassmorphic cards, marquee project banners, and refined color balance.
+- **Real-Time WebGL Visuals** — Immersive 3D environments rendered in real time with `@react-three/fiber` and `@react-three/drei`.
+- **Interactive Physics Simulation** — Dynamic rigid-body physics and collision detection powered by `@react-three/rapier`.
+- **Fluid Timeline Choreography** — Complex multi-stage scroll animations and micro-interactions orchestrated via GSAP.
+- **Optimized Draco Geometry** — Compressed 3D mesh assets and responsive WebP image loading for high-speed hydration.
+- **Fully Responsive Layout** — Dynamic camera calculations ensuring consistent visual fidelity on both mobile devices and wide desktop displays.
+- **Minimalist Aesthetic** — Modern typography, glassmorphic cards, marquee project banners, and refined color balance.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@ It features dynamic project showreels, custom cursor navigation, responsive layo
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js**: `>= 18.x`
@@ -86,10 +86,10 @@ It features dynamic project showreels, custom cursor navigation, responsive layo
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
 ---
 
-<p align="center">Made with ❤️ by Partho</p>
+<p align="center">Built by Partho</p>
