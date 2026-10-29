@@ -27,3 +27,6 @@ dist-ssr
 backup/
 .env
 ._*
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
